@@ -8,8 +8,8 @@ python guessing_game.py
 
 ```
 ### Features
--Random number generation
--User guesses
--High/low hints
--Attempt counter
+Random number generation,
+User guesses,
+High/low hints and
+Attempt counter
 
